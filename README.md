@@ -1,4 +1,5 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+This is the RUNNING VERSION of my Portfolio Website on Vercel.
+https://wdd430-portfolio-6oi5-five.vercel.app/
 
 ## Getting Started
 
