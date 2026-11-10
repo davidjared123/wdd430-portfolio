@@ -23,12 +23,15 @@ export default function About() {
 
       <h3 className="text-2xl font-semibold mb-6 text-slate-200">Skills & Technologies</h3>
       <div className="grid grid-cols-1 md:grid-cols-3 gap-6">
-        <SkillCard skillName="JavaScript / TypeScript" level="Advanced" />
-        <SkillCard skillName="React & Astro" level="Advanced" />
-        <SkillCard skillName="AI & MCP Solutions" level="Specialist" />
-        <SkillCard skillName="Tailwind CSS & UI/UX" level="Advanced" />
-        <SkillCard skillName="Databases & Firebase" level="Intermediate" />
-        <SkillCard skillName="Agile / Scrum" level="Experienced" />
+        <SkillCard skillName="WordPress & PHP (Themes & Hooks)" level="Proficient" />
+        <SkillCard skillName="Advanced Custom Fields (ACF)" level="Proficient" />
+        <SkillCard skillName="HTML5, CSS3 / SCSS & Responsive UI" level="Advanced" />
+        <SkillCard skillName="JavaScript Moderno & DOM Manipulation" level="Advanced" />
+        <SkillCard skillName="Gutenberg & Block Workflows" level="Practical" />
+        <SkillCard skillName="Git & Version Control Workflows" level="Experienced" />
+        <SkillCard skillName="React, Next.js & Astro" level="Advanced" />
+        <SkillCard skillName="Speed Optimization & Caching" level="Proficient" />
+        <SkillCard skillName="Agile Collaboration & Client Support" level="Experienced" />
       </div>
     </main>
   );

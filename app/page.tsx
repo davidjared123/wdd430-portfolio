@@ -3,6 +3,20 @@ import Link from "next/link";
 
 const projects = [
   {
+    title: "Healthcare Calendy — WordPress Multisite & Custom Theme",
+    description:
+      "Full-stack WordPress Multisite solution and custom PHP theme for a multi-city clinical network. Built with custom template hierarchy, ACF field integration, interactive booking calendar, branch selector, and performance optimization.",
+    technologies: [
+      "WordPress Multisite",
+      "PHP & Custom Themes",
+      "ACF (Advanced Custom Fields)",
+      "HTML5 / CSS3 / SCSS",
+      "JavaScript (DOM Manipulation)",
+      "Speed Optimizer & WebP",
+    ],
+    link: "https://healthcare.eurekraftve.com/",
+  },
+  {
     title: "Eurekraft E-commerce & AI Architecture",
     description:
       "E-commerce platform with dynamic pricing algorithms and AI-driven workflows for custom manufacturing.",
