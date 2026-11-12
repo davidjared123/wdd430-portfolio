@@ -1,5 +1,27 @@
-This is the RUNNING VERSION of my Portfolio Website on Vercel.
-https://wdd430-portfolio-6oi5-five.vercel.app/
+# StudySync & WDD 430 Web Frontend Development II
+
+This repository hosts the **StudySync** team project and individual course deliverables for WDD 430.
+
+- **Live Deployment:** [wdd430-portfolio-6oi5-five.vercel.app](https://wdd430-portfolio-6oi5-five.vercel.app/)
+- **Project Board:** [StudySync GitHub Project](https://github.com/users/davidjared123/projects/2)
+
+## Team Members
+- **David Jared Pérez** (`davidjared123`) - Fullstack Developer
+- **Herwin Gaela** (`ghrwn`) - Fullstack Developer / Team Leader
+- **Ashley Lujan** (`ashworks-l`) - Fullstack Developer
+
+---
+
+## Team Project Overview: StudySync
+StudySync is an academic study group and resource hub web application designed to help university students discover and organize course-specific study groups and curate academic resources.
+
+### Tech Stack
+- **Framework:** Next.js (App Router, React Server Components)
+- **Styling:** Tailwind CSS & Lucide Icons
+- **Database:** PostgreSQL (@vercel/postgres) with fallbacks
+- **Deployment:** Vercel
+
+---
 
 ## Getting Started
 
@@ -7,12 +29,6 @@ First, run the development server:
 
 ```bash
 npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
 ```
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
