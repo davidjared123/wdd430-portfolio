@@ -9,6 +9,7 @@ This repository hosts the **StudySync** team project and individual course deliv
 - **David Jared Pérez** (`davidjared123`) - Fullstack Developer
 - **Herwin Gaela** (`ghrwn`) - Fullstack Developer / Team Leader
 - **Ashley Lujan** (`ashworks-l`) - Fullstack Developer
+- **Juan Diego Castillo Chavez** - Team Member
 
 ---
 
