@@ -18,13 +18,7 @@ export default async function OpenSourcePage() {
       ) : (
         <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
           {openSourceProjects.map((project) => (
-            <ProjectCard
-              key={project.id}
-              title={project.title}
-              description={project.description}
-              technologies={project.technologies}
-              link={project.link}
-            />
+            <ProjectCard key={project.id} {...project} />
           ))}
         </div>
       )}
